@@ -12,7 +12,8 @@ https://opengameart.org/content/strict-3x5-micro-font \
 https://opengameart.org/content/3d-keycard \
 https://opengameart.org/content/home-objects \
 https://opengameart.org/content/brackeys-game-jam-20221-pack \
-https://opengameart.org/content/woman-rpg-character
+https://opengameart.org/content/woman-rpg-character \
+https://opengameart.org/content/persistence
 
 CC-BY 3.0:\
 https://opengameart.org/content/cyberpunk-tiles by Kei Abdene \
