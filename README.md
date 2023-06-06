@@ -1,7 +1,9 @@
 # GRQ
 G** R**** Q***** - It's everyone's dream! Beat the high score in this fun little hybrid adventure rpg stock margket simulator.
 
-External sources are: 
+![Screenshot](https://github.com/coscholz1984/GRQ/blob/main/Screenshot1.png?raw=true)
+
+Licence (code): GPL v3. Credits/External sources are: 
 
 CC0:\
 https://opengameart.org/content/24-x-scifi-cyberpunk-tiles \
