@@ -3,6 +3,8 @@ G** R**** Q***** - It's everyone's dream! Beat the high score in this fun little
 
 ![Screenshot](https://github.com/coscholz1984/GRQ/blob/main/Screenshot1.png?raw=true)
 
+Download ![Windows Binaries](https://github.com/coscholz1984/GRQ/blob/main/Release/GRQ.7z?raw=true)
+
 Developed in Adventure Game Studio  3.6.0. Licence (code): GPL v3. Credits/External sources are: 
 
 CC0:\
