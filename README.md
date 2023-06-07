@@ -1,5 +1,5 @@
 # GRQ
-G** R**** Q***** - It's everyone's dream! Beat the high score in this fun little hybrid adventure rpg stock margket simulator.
+G** R**** Q***** - It's everyone's dream! Beat the high score in this fun little hybrid adventure rpg stock market simulator.
 
 ![Screenshot](https://github.com/coscholz1984/GRQ/blob/main/Screenshot1.png?raw=true)
 
