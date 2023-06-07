@@ -3,7 +3,7 @@ G** R**** Q***** - It's everyone's dream! Beat the high score in this fun little
 
 ![Screenshot](https://github.com/coscholz1984/GRQ/blob/main/Screenshot1.png?raw=true)
 
-Developed in Adventure Game Studio. Licence (code): GPL v3. Credits/External sources are: 
+Developed in Adventure Game Studio  3.6.0. Licence (code): GPL v3. Credits/External sources are: 
 
 CC0:\
 https://opengameart.org/content/24-x-scifi-cyberpunk-tiles \
